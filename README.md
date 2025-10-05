@@ -1,12 +1,24 @@
-# Microsoft-Excel-Data-Visualization
+# 📗Microsoft Excel Data Visualization Study Plan
 
-# Comprehensive Excel Data Visualization Study Plan
 
 ## 📊 Course Overview & Learning Objectives
 
 This study plan will transform you into an Excel visualization expert through structured learning, hands-on practice, and progressive skill building. The plan spans **8-10 weeks** with dedicated time for theory, practice, and mastery.
 
+ଏହି ପଢ଼ା ଆପଣଙ୍କୁ ଧୀରେ ଧୀରେ Excel visualization ରେ ଏକ ଦକ୍ଷ ବ୍ୟକ୍ତି କରିଦେବ | ଏଠାରେ ଆପଣ ଧୀରେ ଧୀରେ ଶିଖିବେ, ଅଭ୍ୟାସ କରିବେ ଓ ନୂଆ କୌଶଳ ଗଢ଼ିବେ | ଏହା 8-10 ସପ୍ତାହ ଲାଗି ଚାଲିବ ଯେଉଁଠି ଥିଓରି, ପ୍ରାକ୍ଟିସ୍ ଓ ମାଷ୍ଟେରି ପାଇଁ ଅଲଗା ସମୟ ରହିବ |
+
 ---
+## 🧩 Prerequisites
+
+- Strong foundation in Excel formulas and formatting (ଏକ୍ସେଲ ସୂତ୍ର ଏବଂ ଫର୍ମାଟିଂରେ ଦୃଢ଼)
+
+- Comfort with data cleaning and tabular structures (ପିଭଟ୍ ଟେବୁଲ୍‌, ଫିଲ୍ଟର୍‌))
+
+- ବ୍ୟବସାୟ ମେଟ୍ରିକ୍ସର ମୌଳିକ ବୁଝାମଣା (KPIs, growth %, comparisons)
+
+
+---
+
 
 ## **PHASE 1: Foundation & Core Principles (Week 1-2)**
 
@@ -403,13 +415,7 @@ This study plan will transform you into an Excel visualization expert through st
 
 
 🎓 Course Title: Excel Data Visualization Professional Masterclass
-🧩 Prerequisites
 
-Strong foundation in Excel formulas and formatting
-
-Comfort with data cleaning and tabular structures (Pivot Tables, Filters)
-
-Basic understanding of business metrics (KPIs, growth %, comparisons)
 
 🧭 COURSE STRUCTURE & OUTLINE
 Module	Title	Core Focus	Key Lessons / Topics Covered
