@@ -400,3 +400,127 @@ This study plan will transform you into an Excel visualization expert through st
 ---
 
 **Good luck with your Excel visualization journey! Remember: great visualizations tell stories, drive decisions, and communicate complex information simply and effectively.**
+
+
+🎓 Course Title: Excel Data Visualization Professional Masterclass
+🧩 Prerequisites
+
+Strong foundation in Excel formulas and formatting
+
+Comfort with data cleaning and tabular structures (Pivot Tables, Filters)
+
+Basic understanding of business metrics (KPIs, growth %, comparisons)
+
+🧭 COURSE STRUCTURE & OUTLINE
+Module	Title	Core Focus	Key Lessons / Topics Covered
+📘 MODULE 1: Orientation & Visualization Foundations
+
+(Setting the mindset and visual thinking principles)
+
+			
+1.1	READ ME: Important Notes for New Students	Course overview, expectations, and navigation	Understanding how to use project files, exercises, and assignments
+1.2	DOWNLOAD: Course Resources	Get datasets, templates, icons, color palettes	Standardizing project setup
+1.3	Setting Expectations	Learning objectives and progression roadmap	What you’ll be able to visualize at the end
+1.4	Key Visualization Principles & The 10-Second Rule	Visual cognition, simplicity, and clarity	Why viewers must “get it” in 10 seconds
+1.5	Good, Bad & Ugly Data Viz	Case studies of best & worst practices	Evaluating real charts and dashboards
+1.6	3 Key Questions for Effective Visualization	Purpose, audience, and message	Framework for choosing the right chart type
+
+🧠 Outcome: Understand visual design principles, audience analysis, and chart purpose before touching Excel.
+
+📊 MODULE 2: Chart Formatting & Customization Essentials
+
+(Learn to design, style, and format Excel visuals like a pro)
+
+			
+2.1	Customizing Chart Elements, Layouts & Styles	Working with chart areas, axes, gridlines, labels	Master visual balance
+2.2	Configuring Chart Formats	Fonts, color palettes, alignment, data labels	Consistent branding
+2.3	Changing Chart Types & Adding Secondary Axis	Comparative & dual-axis charts	Handling multiple measures
+2.4	Creating & Applying Custom Chart Templates	Save and reuse chart designs	Create brand-consistent visuals
+2.5	Excel Chart Customization Practice	Quiz + mini projects	5 practical formatting tasks
+
+🧠 Outcome: Ability to build visually clean, branded charts with professional polish.
+
+📈 MODULE 3: Core Excel Chart Types (The Visualization Toolkit)
+
+(Master every chart Excel offers, from basics to modern Office 365 visuals)
+
+			
+3.1 Bar & Column Charts	DEMO + HOMEWORK	Comparative analysis, performance tracking	
+3.2 Histograms & Pareto Charts (Excel 2016+)	DEMO + HOMEWORK	Frequency & contribution analysis	
+3.3 Line Charts & Trendlines	DEMO + HOMEWORK	Trend visualization, forecasting	
+3.4 Area Charts	DEMO + HOMEWORK	Cumulative trends, composition over time	
+3.5 Pie, Donut & Race Track Charts	DEMO + HOMEWORK	Composition and proportion visuals	
+3.6 Scatter & Bubble Charts	DEMO + HOMEWORK	Correlation and multivariate visualization	
+3.7 Box & Whisker Charts (2016+)	DEMO + HOMEWORK	Distribution and outlier analysis	
+3.8 Tree Maps & Sunburst Charts (2016+)	DEMO + HOMEWORK	Hierarchical relationships	
+3.9 Waterfall & Funnel Charts (2016+)	DEMO + HOMEWORK	Progression and contribution flow	
+3.10 Radar Charts	DEMO + HOMEWORK	Skill or performance comparison	
+3.11 Stock Charts	DEMO + HOMEWORK	Financial OHLC data visualization	
+3.12 Heat Maps (Conditional Formatting)	DEMO + HOMEWORK	Pattern detection through color intensity	
+3.13 Surface & 3D Contour Charts	DEMO + HOMEWORK	3D visualizations and terrain-like surfaces	
+3.14 Geo-Spatial Mapping (Power Map)	DEMO + HOMEWORK	Map-based data visualization	
+3.15 Combo Charts	DEMO + HOMEWORK	Combining bar, line, and area visuals	
+3.16 Sparklines	DEMO + HOMEWORK	In-cell micro visualizations	
+
+🧠 Outcome: Confidently choose and apply the most suitable chart type for any data story.
+
+🎨 MODULE 4: Advanced Excel Data Visualization Techniques
+
+(Dynamic, interactive, and automation-based charting)
+
+			
+4.1	Creating Custom Image Overlay Charts	Using icons, logos, or shapes in charts	Visual branding and storytelling
+4.2	Using Binary Values to Highlight Time Periods	Visual switches for periods/events	Create highlight zones
+4.3	Automating Charts with Named Ranges (OFFSET & COUNTA)	Dynamic charting with formulas	Auto-update visuals
+4.4	Adding Scroll & Zoom Functionality (Form Controls)	Interactive chart navigation	Improve usability
+4.5	Creating Interactive Area Charts to Show Changes Over Time	Dynamic range-based visuals	Compare time-based scenarios
+4.6	Dynamic Chart Formatting Based on Values	Conditional visuals	Change color/style dynamically
+4.7	Dynamically Highlighting Segments of Data	Spotlight high/low performers	Rule-based visuals
+4.8	Visualizing Percentages Using Array Functions	Combine formulas + visuals	Create advanced percentage visuals
+4.9	Designing a Custom Excel Gauge Chart	KPI visualization	Dashboard-ready gauges
+4.10	Building a Custom Excel Pacing Chart	Progress tracking visuals	Measure actual vs. target
+4.11	DEMO: Building a Dynamic Excel Dashboard (Part 1 & 2)	Combine visuals interactively	Practical dashboard build
+4.12	BONUS LESSON	Creative visual tricks	Design challenge
+
+🧠 Outcome: Learn professional-level automation and interactivity to turn static charts into responsive dashboards.
+
+📊 MODULE 5: Building Interactive Dashboards
+
+(Bringing it all together)
+
+			
+5.1	Dashboard Design Principles	Information hierarchy, layout, and color use	
+5.2	Using Slicers & Timelines	Add interactivity and filtering	
+5.3	Linking Charts & Pivot Tables	Cross-filtered dashboard components	
+5.4	Automating with Dynamic Named Ranges	Real-time updating dashboards	
+5.5	Final Project: KPI Dashboard	Build full dashboard using techniques from Module 4	
+5.6	Dashboard Review & Optimization	Performance tuning and best practices	
+
+🧠 Outcome: Create professional Excel dashboards that auto-refresh, respond to user input, and tell a clear story.
+
+📢 MODULE 6: Storytelling & Presentation
+
+(Turn your visuals into compelling narratives)
+
+			
+6.1	Data Storytelling Framework	Crafting insights and narrative flow	
+6.2	Annotating Charts Effectively	Use callouts, arrows, highlights	
+6.3	Color Psychology & Branding	Choosing the right colors for impact	
+6.4	Preparing for Presentation	Exporting to PowerPoint, PDF, and print	
+6.5	Final Assessment	10-question practical quiz + dashboard submission	
+
+🧠 Outcome: Transform your dashboards into professional stories ready for client presentations or management reviews.
+
+🧩 Additional Components
+Section	Purpose
+📘 READ ME & Course Resources	Orientation and setup
+📑 HOMEWORK & QUIZZES	Practice per module
+💡 MINI PROJECTS	Real-life case studies (sales analysis, regional performance, etc.)
+🏆 FINAL PROJECT	Full dashboard with multiple visuals & interactivity
+🧠 Certification Path
+
+Level 1: Core Chart Mastery (Modules 1–3)
+
+Level 2: Advanced Visualization Expert (Modules 4–5)
+
+Level 3: Dashboard & Storytelling Specialist (Module 6 + Final Project)
